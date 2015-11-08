@@ -33,3 +33,6 @@ Project Participants
 * James Kolafa
 * Derrick
 * Erik Peterson
+* Daniel Rios
+* Dennis Vecchio
+* Mike Peacock
